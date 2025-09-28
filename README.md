@@ -72,9 +72,13 @@
 
 ### -->
 
-<!-- Typing SVG Header -->
+<!-- Modern Gradient Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey%20👋%20I'm%20Harshit%20Shukla-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=36BCF7" height="40" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Harshit+Shukla;Coding+Enthusiast+💻;Full+Stack+Web+Developer+🚀;Open+Source+Contributor+🌍;Lifelong+Learner+📚" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Coding+Enthusiast+💻;Full+Stack+Web+Developer+🚀;Open+Source+Contributor+🌍;Lifelong+Learner+📚" alt="Typing Animation" />
 </h1>
 
 ---
@@ -87,68 +91,22 @@
 - 👨‍💻 Explore my work 👉 [**GitHub Repos**](https://github.com/Harshit9026)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="400" alt="Innovation gif"/>
 </p>
 
 ---
 
 ### ⚡ Tech Stack  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FF007F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
-        <br>NestJS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,django,mongodb,postgres,c,bootstrap,github,vscode" />
 </div>
 
 ---
@@ -156,17 +114,21 @@
 ### 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit9026&theme=radical&hide_border=true" height="180" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit9026&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit9026&layout=compact&theme=radical&hide_border=true" height="180" alt="languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit9026&theme=radical&hide_border=true&background=0D1117&fire=36BCF7&ring=FF007F" height="180" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit9026&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit9026&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages"/>
 </div>
 
 ---
 
-### 🐍 Contribution Graph  
+### 🖥️ Contribution Vibes  
 
 <p align="center">
-  <img src="https://github.com/Harshit9026/Harshit9026/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit9026&bg_color=0D1117&color=36BCF7&line=FF007F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Matrix animation"/>
 </p>
 
 ---
@@ -187,13 +149,13 @@
 > *I turn ☕ coffee into clean code, bugs into features, and ideas into impact 🚀*  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="fun coding gif"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="fun gif"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshit9026&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Harshit9026&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 </p>
 
 
