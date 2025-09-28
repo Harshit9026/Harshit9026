@@ -166,7 +166,7 @@
 ### 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshit9026/Harshit9026/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Harshit9026/Harshit9026/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
